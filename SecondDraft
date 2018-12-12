@@ -1,0 +1,43 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN"
+    "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
+<html lang="en">
+
+<head>
+  <meta charset = "UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, intial-scale=1">
+  <link href="moqup.css" rel="stylesheet" >
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+</head>
+   
+<body>
+
+    
+    <div>
+    <img src="earEchoIn.svg">
+    <h1>Share your sonic experience with someone else (now or later).</h1>
+    </div>
+    <br> <br> <br> <br> <br>
+    
+<ul>
+  <li><a href="#home">MAP</a></li>
+  <li><a href="#news">LISTEN</a></li>
+  <li class="dropup">
+    <a href="#" class="dropup">INFO</a>
+    <div class="dropup-content">
+      <a href="#">About the App</a>
+      <a href="#">Printable Instructions</a>
+      <a href="#">Tutorial</a>
+      <a href="#">Credits</a>
+    </div>
+  </li>
+</ul>
+   
+</body>
+</html>
+
+// Second draft includes a typical page of the application. I added a very simple function which allows the info text when hovered, 
+to show up a menu of possible information that you would need when navigating the app. //
